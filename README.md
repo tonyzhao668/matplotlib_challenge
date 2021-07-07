@@ -12,7 +12,9 @@ Access to the complete data from their most recent animal study. In this study, 
 
 ![Laboratory](Images/screenshot1.PNG)
 
-The tasks are to do the following:
+![Laboratory](Images/screenshot2.PNG)
+
+The tasks have done the following:
 
 * Before beginning the analysis, check the data for any mouse ID with duplicate time points and remove any data associated with that mouse ID.
 
