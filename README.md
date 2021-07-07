@@ -43,4 +43,5 @@ Here are some final considerations:
 
 * It must use proper labeling of your plots, to include properties such as: plot titles, axis labels, legend labels, _x_-axis and _y_-axis limits, etc.
 
+* Job done!
 
